@@ -1,0 +1,1 @@
+window.CX_CONFIG={url:"https://yoonjzhiqzjhjrgosiua.supabase.co",key:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inlvb25qemhpcXpqaGpyZ29zaXVhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMyNjExNDksImV4cCI6MjEwODgzNzE0OX0.FZn771F35BulDMOmrxBqK736whwupLP9zggGEdQKDnQ"};
