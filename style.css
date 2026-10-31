@@ -188,3 +188,6 @@ button.mini.danger{color:#a52b2b;border-color:#e3b9b9}
   .t-name{grid-area:nm}.t-num{grid-area:num}.t-bar{grid-area:bar}.t-iss{grid-area:iss;text-align:start}.t-time{grid-area:time}
   .hdr-right{width:100%}
 }
+
+.hdr .credit{margin-top:8px;font-size:12px;font-weight:600;letter-spacing:.2px;color:#E0BD62;opacity:.92;display:flex;align-items:center;gap:8px}
+.hdr .credit::before{content:"";width:18px;height:1px;background:#E0BD62;opacity:.7}
